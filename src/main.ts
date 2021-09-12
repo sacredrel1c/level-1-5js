@@ -1,5 +1,5 @@
 const moment = require('moment');
-
+let vasya;
 let duration: number = 5;
 const timer = document.getElementById('timer');
 const increaseButton = document.getElementById('increase');
