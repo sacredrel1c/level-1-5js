@@ -1,7 +1,6 @@
 const moment = require('moment');
 
 let duration: number = 5;
-
 const timer = document.getElementById('timer');
 const increaseButton = document.getElementById('increase');
 const decreaseButton = document.getElementById('decrease');
